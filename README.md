@@ -17,6 +17,6 @@ Validates user input with conditions:
 Displays numbers from 1 to 5 using a loop and updates the DOM.
 
 ## Author
-[Your Full Name]  
-[Your Matric Number]  
+Voon Shao Zhe
+AI230123 
 BIC 21203 – Web Development
